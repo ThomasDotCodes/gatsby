@@ -9118,3 +9118,15 @@
   built_by: Junho Baik
   built_by_url: https://github.com/junhobaik
   featured: false
+- title: Paranoid American
+  url: https://paranoidamerican.com
+  main_url: https://paranoidamerican.com
+  description: >
+    Paranoid American is a small independent publisher focused on 
+    Comics & Graphic Novels about Conspiracy Theories and the Occult.
+  categories:
+    - Entertainment
+    - Gallery
+    - Media
+    - Portfolio
+  featured: false
